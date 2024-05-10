@@ -1,2 +1,3 @@
-# FISH497-SPRING2024
-Repository for students to clone and use to host data and information about their projects
+# Project Synopsis
+
+Write an overview of your project here. Should include quick background about the applied relevance of your work, hypotheses, objectives, experimental design, and a summary of your findings. *No more than 500 words.*
